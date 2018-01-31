@@ -1,0 +1,5 @@
+flake8==3.5.0
+flaky==3.4.0
+pytest==3.3.2
+pytest-html==1.16.1
+selenium==3.8.1
